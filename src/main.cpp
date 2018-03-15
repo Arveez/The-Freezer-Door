@@ -9,7 +9,7 @@ void setup() {
 		Serial.print(".");
 		delay(500);
 	}
-	Serial.printf("connected to %s", SSID);
+	Serial.printf("\nconnected to %s", SSID);
     // put your setup code here, to run once:
 }
 
